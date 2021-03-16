@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TP4</string>
+    <string name="sensor_name">sensor name</string>
+    <string name="sensor_message">sensor message</string>
+    <string name="force_z">Force Z:</string>
+    <string name="force_y">Force Y:</string>
+    <string name="force_x">Force X:</string>
+    <string name="play_sound">Play sound</string>
+    <string name="additional_info">Additional Info</string>
+    <string name="list_of_sensors">List of sensors</string>
+</resources>

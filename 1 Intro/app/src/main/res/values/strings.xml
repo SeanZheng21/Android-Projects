@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MysteryNumber</string>
+    <string name="steps_left">Steps left</string>
+    <string name="history">History:</string>
+    <string name="historyTrace">1111 is too small</string>
+    <string name="number_indication">Enter a number between 0 and 9999</string>
+    <string name="result">result:</string>
+    <string name="quit">QUIT</string>
+    <string name="replay">REPLAY</string>
+</resources>

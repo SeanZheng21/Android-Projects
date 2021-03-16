@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Vocabulary</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="quiz">quiz</string>
+    <string name="menu_vocab">menu_vocab</string>
+    <string name="vocab">vocab</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="check">Check</string>
+    <string name="name">Name</string>
+    <string name="answer">answer:</string>
+</resources>

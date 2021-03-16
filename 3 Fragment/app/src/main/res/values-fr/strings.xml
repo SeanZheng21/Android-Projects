@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">List des taches</string>
+    <string name="add_task">Ajoute Tache</string>
+    <string name="textview">TextView</string>
+    <string name="catagorydesc">catagoryDesc</string>
+    <string name="task_list">List des Taches</string>
+</resources>
