@@ -49,7 +49,6 @@ https://github.com/SeanZheng21/Android-Projects/tree/main/3%20Fragment
 * Use the SensorEventListener class
 
 ![Sensor1](https://github.com/SeanZheng21/Android-Projects/blob/main/images/sensor1.png)
-
 ![Sensor2](https://github.com/SeanZheng21/Android-Projects/blob/main/images/sensor2.png)
 
 https://github.com/SeanZheng21/Android-Projects/tree/main/4%20Sensors
